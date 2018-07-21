@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/adibyte95/Word-Analogy.svg)](http://hits.dwyl.io/adibyte95/Word-Analogy)
 # Word-Analogy
 <h2>Topic</h2><br/>
 given three word a,b and c we will have to generate next word d such that the relation ship between a and b is same as that between c and d.<br/>
